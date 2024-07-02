@@ -1,4 +1,4 @@
-package freeswitch.esl.inbound;
+package freeswitch.inbound;
 
 import org.freeswitch.esl.client.IEslEventListener;
 import org.freeswitch.esl.client.inbound.Client;

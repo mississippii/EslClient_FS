@@ -1,4 +1,4 @@
-package freeswitch.esl.outbound;
+package  freeswitch.outbound;
 import org.freeswitch.esl.client.outbound.SocketClient;
 
 /**
